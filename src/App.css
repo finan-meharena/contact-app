@@ -1,0 +1,21 @@
+body{
+  padding: 30px;
+  background-color: aliceblue;
+}
+
+.headers{
+  background-color: rgb(246, 231, 214);
+  font-size: 15px;
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+
+  
+}
+
+.trash{
+  padding-left: 400px;
+  cursor: pointer;
+
+}
+
